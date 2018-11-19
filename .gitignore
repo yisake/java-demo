@@ -40,3 +40,8 @@ thumbs.db
 /target
 /logs
 .project
+.classpath
+JNative.jar
+pom.xml
+/src
+/test-output
